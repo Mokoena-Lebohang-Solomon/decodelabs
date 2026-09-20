@@ -1,0 +1,54 @@
+# AI Rule-Based Chatbot
+
+A simple command-line **rule-based chatbot** built with Python. The chatbot responds to predefined user messages using conditional statements.
+
+## Features
+
+* Responds to greetings such as `hello`, `hi`, and `hey`
+* Answers basic questions
+* Provides a help command
+* Handles unknown messages
+* Supports `bye`, `exit`, and `quit` commands
+* Runs continuously until the user exits
+
+## Technologies
+
+* Python 3
+* Standard Python libraries
+
+## How to Run
+
+Run the following command in the project folder:
+
+```bash
+python chatbot.py
+```
+
+## Example
+
+```text
+You: hello
+Bot: Hello!
+
+You: what is your name
+Bot: My name is RuleBot.
+
+You: what can you do
+Bot: I can respond to simple predefined messages.
+
+You: bye
+Bot: Goodbye! Have a great day!
+```
+
+## Concepts Practised
+
+* Functions
+* `while` loops
+* Conditional statements
+* User input
+* String manipulation
+* Type annotations
+
+## Author
+
+**Lebohang Mokoena Solomon**
